@@ -1,3 +1,3 @@
 # wokwi
-학교과제저장용
+repository for school assignments
 https://wokwi.com/
